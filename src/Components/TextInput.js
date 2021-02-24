@@ -1,15 +1,18 @@
 import React from "react";
+import TextField from '@material-ui/core/TextField';
 
 const TextInput = (props) => {
   return (
     <div>
       <label>{props.label}</label>
-      <input
-        type="number"
+
+      <TextField id="standard-basic" type="number"
         value={props.value}
         placeholder={props.placeholder}
-        onChange={props.handleChange}
-      />
+        onChange={props.handleChange} />
+      
+ 
+      
     </div>
   );
 };

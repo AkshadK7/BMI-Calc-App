@@ -45,7 +45,7 @@ function App() {
         </div>
 
       </div>
-      <footer> <div id="Copyright"><i class="fa fa-code" aria-hidden="true"></i>&nbsp;Crafted by Akshad Kolhatkar</div></footer>
+      <footer> <div id="Copyright">&#60;Crafted by Akshad Kolhatkar&#62;</div></footer>
     </div>
   );
 }

@@ -48,7 +48,7 @@ function Form(props) {
 
       <div className="row">
         <TextInput
-          label="Height: "
+          
           placeholder="Enter height in cm"
           handleChange={handleHeightChange}
           value={height}
@@ -56,7 +56,7 @@ function Form(props) {
       </div>
       <div className="row">
         <TextInput
-          label="Weight: "
+          
           placeholder="Enter weight in kg"
           handleChange={handleWeightChange}
           value={weight}

@@ -49,7 +49,7 @@ body {
 .stopwatch .stopwatch-btn {
   background: #fff;
   margin-top: 30px;
-  margin-left: 45px;
+  margin-left: 0px;
   border: none;
   padding: 12px 20px;
   font-size: 16px;
@@ -95,7 +95,7 @@ h1 {
 
 footer{
   bottom: 0;
-  padding-top: 200px;
+  padding-top: 160px;
   text-align: center;
 }
 
